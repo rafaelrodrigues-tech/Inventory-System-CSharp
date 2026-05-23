@@ -11,12 +11,12 @@ Funcionalidades
 - Média de preços
 - Tratamento de exceções
 
-Tecnologias
+Tecnologias:
 - C#
 - .NET
 - LINQ
 
-Conceitos praticados
+Conceitos praticados:
 - Programação Orientada a Objetos
 - Collections
 - Exceptions
